@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <!-- Colorations des joueurs -->
+    <string name="PlayerColorMango">Mangue</string>
+    <string name="PlayerColorLavender">Lavande</string>
+    <string name="PlayerColorPeach">Pèche</string>
+    <string name="PlayerColorBubblegum">Chewing-Gum</string>
+    <string name="PlayerColorApricot">Abricot</string>
+    <string name="PlayerColorBrick">Brique</string>
+    <string name="PlayerColorGalaxy">Galaxie</string>
+    <string name="PlayerColorCherry">Cerise</string>
+</resources>
