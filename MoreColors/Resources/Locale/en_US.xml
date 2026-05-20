@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <!-- Player Colors -->
+    <string name="PlayerColorMango">Mango</string>
+    <string name="PlayerColorLavender">Lavender</string>
+    <string name="PlayerColorPeach">Peach</string>
+    <string name="PlayerColorBubblegum">Bubblegum</string>
+    <string name="PlayerColorApricot">Apricot</string>
+    <string name="PlayerColorBrick">Brick</string>
+    <string name="PlayerColorGalaxy">Galaxy</string>
+    <string name="PlayerColorCherry">Cherry</string>
+</resources>

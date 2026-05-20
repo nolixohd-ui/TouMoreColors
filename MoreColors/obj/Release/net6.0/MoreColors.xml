@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MoreColors</name>
+    </assembly>
+    <members>
+        <member name="P:MoreColors.TouExtensionExamplePlugin.Culture">
+            <summary>
+                Gets the specified Culture for string manipulations.
+            </summary>
+        </member>
+        <member name="P:MoreColors.TouExtensionExamplePlugin.OptionsTitleText">
+            <inheritdoc />
+        </member>
+        <member name="P:MoreColors.TouExtensionExamplePlugin.IsDevBuild">
+            <summary>
+                Determines if the current build is a dev build or not. This will change certain visuals as well as always grab news locally to be up to date.
+            </summary>
+        </member>
+        <member name="M:MoreColors.TouExtensionExamplePlugin.GetConfigFile">
+            <inheritdoc />
+        </member>
+        <member name="F:MoreColors.TouExtensionExamplePlugin.Id">
+            <summary>
+            Id of the <see cref="T:MoreColors.TouExtensionExamplePlugin"/>.
+            </summary>
+        </member>
+        <member name="P:MoreColors.TouExtensionExamplePlugin.Name">
+            <summary>
+            Gets the name of the <see cref="T:MoreColors.TouExtensionExamplePlugin"/>.
+            </summary>
+        </member>
+        <member name="P:MoreColors.TouExtensionExamplePlugin.Version">
+            <summary>
+            Gets the version of the <see cref="T:MoreColors.TouExtensionExamplePlugin"/>.
+            </summary>
+        </member>
+    </members>
+</doc>
